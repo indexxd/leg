@@ -1,0 +1,10 @@
+{
+    "name": "ja/ty",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Ja\\Ty\\": "src/"
+        }
+    },
+    "require": {}
+}
